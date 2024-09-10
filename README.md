@@ -8,9 +8,9 @@ Take a look at my Tech stack in my Toolbox below!
 ## 🧰 Toolbox
 
 ### Languages
-| Python | C++ | Java | JavaScript | HTML | CSS |
-|--------|-----|------|------------|------|-----|
-| <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50" />
+| Python | C++ | Java | JavaScript | HTML | CSS | Git|
+|--------|-----|------|------------|------|-----|-----|
+| <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50" />
 
 ### Cloud
 | AWS | Google Cloud | Docker |
