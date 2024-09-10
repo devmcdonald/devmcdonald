@@ -8,7 +8,8 @@ Take a look at my Tech stack in my Toolbox below!
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50" />
+Languages:
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Javascript Logo" width="50" height="50" />
 
 ---
 
