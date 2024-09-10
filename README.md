@@ -8,8 +8,8 @@ Take a look at my Tech stack in my Toolbox below!
 
 🧰 Toolbox
 
-<img src="[https://cdn.worldvectorlogo.com/logos/python.svg](https://worldvectorlogo.com/logo/python-5)" width="50" height="50"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/python.svg" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 ---
 <!--
 **devmcdonald/devmcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
