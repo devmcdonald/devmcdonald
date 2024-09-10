@@ -3,11 +3,14 @@
 I am a NYU Master's Computer Science student graduating in December 2024 with a wide breadth of experience in AI, Machine Learning, Data Science, and Full Stack Software Engineering.
 
 Take a look at my Tech stack in my Toolbox below!
+
 ---
+
 ## 🧰 Toolbox
 | Languages | Cloud | Backend | CI/CD |
 |--------|-----|------|------------|
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50" />|<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker Logo" width="50" height="50" />|<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite Logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL Logo" width="50" height="50" /> | <img src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg" alt="Travis-CI Logo" width="50" height="50" />
+
 ---
 - ## 📫 How to reach me: ...
 
@@ -18,6 +21,13 @@ Take a look at my Tech stack in my Toolbox below!
 Feel free to reach out through any of these channels!
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<devmcdonald>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<devmcdonald>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **devmcdonald/devmcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
