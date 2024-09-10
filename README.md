@@ -1,12 +1,14 @@
 ## Hi there 👋 I'm Devin McDonald!
 
-I am a NYU Master's Computer Science student graduating in December 2024 with a wide breadth of experience in AI, Machine Learning, Data Science, and Full Stack Software Engineering!
+I am a NYU Master's Computer Science student graduating in December 2024 with a wide breadth of experience in AI, Machine Learning, Data Science, and Full Stack Software Engineering.
+
+Take a look at my Tech stack in my Toolbox below!
 
 ---
 
 🧰 Toolbox
 
-<img src="[https://cdn.worldvectorlogo.com/logos/python.svg](https://worldvectorlogo.com/logo/python-5)" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/C.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/
+<img src="[https://cdn.worldvectorlogo.com/logos/python.svg](https://worldvectorlogo.com/logo/python-5)" width="50" height="50"/>
 
 ---
 <!--
