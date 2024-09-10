@@ -8,7 +8,7 @@ Take a look at my Tech stack in my Toolbox below!
 
 🧰 Toolbox
 
-<img src="https://worldvectorlogo.com/logo/python-5"/>
+<img src="icons/python/python-original.svg"/>
 
 
 ---
