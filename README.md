@@ -6,7 +6,7 @@ I am a NYU Master's Computer Science student graduating in December 2024 with a 
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/C.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/
+<img src="[https://cdn.worldvectorlogo.com/logos/python.svg](https://worldvectorlogo.com/logo/python-5)" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/C.svg" alt="C++ Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/
 
 ---
 <!--
