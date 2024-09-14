@@ -27,7 +27,7 @@ A music-based social media platform where users can rate, review music, and conn
 ### 3. AI-ML YouTube Closed Captioning API: Foreign Whispers
 This project showcases my AI and machine learning capabilities in extracting and analyzing YouTube closed captions using Python.
 
-- [GitHub Repository](https://github.com/devmcdonald/AI-ML/YouTube-Closed-Captioning-API)
+- [GitHub Repository](https://github.com/devmcdonald/AI-ML/YouTube_Closed_Captioning_API)
 
 
 
