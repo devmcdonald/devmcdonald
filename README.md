@@ -1,6 +1,6 @@
  ## Hi there 👋 I'm Devin McDonald!
 
-I’m a Master’s student in Computer Science at NYU, graduating in December 2024, with a strong foundation in AI, ML, data science, and full-stack software engineering. With 7 years of experience as a Chemical Engineer, I bring a methodical, scientific approach to problem-solving, and I’m passionate about applying these skills to tackle complex challenges in the tech world!
+I’m a Master’s graduate in Computer Science from NYU, with a strong foundation in AI, ML, data science, and full-stack software engineering. With 7 years of experience as a Chemical Engineer, I bring a methodical, scientific approach to problem-solving, and I’m passionate about applying these skills to tackle complex challenges in the tech world!
 
 Take a look at my Tech stack in my Toolbox below!
 
